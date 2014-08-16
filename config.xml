@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "me.drucko.employees"
         versionCode="10"
-        version   = "3.5.0">
+        version   = "1.0.0">
 
     <!-- versionCode is optional and Android only -->
-<preference name="phonegap-version" value="3.1.0" />
+ <preference name="phonegap-version" value="3.5.0" /> 
 
 
     <name>Employee Directory</name>
