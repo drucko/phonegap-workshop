@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "me.drucko.employees"
         versionCode="10"
-        version   = "1.1.0">
+        version   = "3.5.0">
 
     <!-- versionCode is optional and Android only -->
 
